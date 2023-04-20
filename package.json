@@ -1,0 +1,20 @@
+{
+  "name": "login_unit_tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^3.2.3",
+    "mysql2-promise": "^0.1.4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.12",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}
